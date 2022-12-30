@@ -6292,7 +6292,7 @@ const reply = `
     }
     break
 case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
-teks = `*「 ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nDont forget to donate 🍜`
+teks = `*「 ${global.botname} Script 」*\n\nDANA: ${global.websitex}\nPulsa: ${global.botscript}\n\nDont forget to donate 🍜`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
