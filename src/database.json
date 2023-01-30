@@ -24,6 +24,11 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 12
+    },
+    "6281210258584@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
     }
   },
   "chats": {
@@ -48,6 +53,10 @@
       "antilink": false
     },
     "6283847400732@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281210258584@s.whatsapp.net": {
       "mute": false,
       "antilink": false
     }
